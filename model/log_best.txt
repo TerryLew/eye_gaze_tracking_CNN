@@ -1,0 +1,724 @@
+================Run: #path=4, rate=0.001================
+Building graph...
+Loading data...
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Graphics Device, pci bus id: 0000:05:00.0)
+
+================================================================
+Start training... batch size: 512 , learning rate: 0.001
+================================================================
+Iteration: 9
+Iteration: 18
+Iteration: 27
+Iteration: 36
+Iteration: 45
+Iteration: 54
+Iteration: 63
+Iteration: 72
+Iteration: 81
+Iteration: 90
+=============================================
+Epoch 1: Loss= 10.657313, train error= 3.81575, test error= 3.82215
+=============================================
+learning rate decreased to: 0.00085
+Iteration: 99
+Iteration: 108
+Iteration: 117
+Iteration: 126
+Iteration: 135
+Iteration: 144
+Iteration: 153
+Iteration: 162
+Iteration: 171
+Iteration: 180
+=============================================
+Epoch 2: Loss= 6.535178, train error= 2.96906, test error= 3.11871
+=============================================
+learning rate decreased to: 0.0007225
+Iteration: 189
+Iteration: 198
+Iteration: 207
+Iteration: 216
+Iteration: 225
+Iteration: 234
+Iteration: 243
+Iteration: 252
+Iteration: 261
+Iteration: 270
+Iteration: 279
+=============================================
+Epoch 3: Loss= 5.454629, train error= 2.60680, test error= 2.84583
+=============================================
+learning rate decreased to: 0.000614125
+Iteration: 288
+Iteration: 297
+Iteration: 306
+Iteration: 315
+Iteration: 324
+Iteration: 333
+Iteration: 342
+Iteration: 351
+Iteration: 360
+Iteration: 369
+=============================================
+Epoch 4: Loss= 4.548668, train error= 2.43637, test error= 2.61782
+=============================================
+learning rate decreased to: 0.00052200625
+Iteration: 378
+Iteration: 387
+Iteration: 396
+Iteration: 405
+Iteration: 414
+Iteration: 423
+Iteration: 432
+Iteration: 441
+Iteration: 450
+Iteration: 459
+=============================================
+Epoch 5: Loss= 3.748695, train error= 2.14052, test error= 2.43349
+=============================================
+learning rate decreased to: 0.0004437053125
+Iteration: 468
+Iteration: 477
+Iteration: 486
+Iteration: 495
+Iteration: 504
+Iteration: 513
+Iteration: 522
+Iteration: 531
+Iteration: 540
+Iteration: 549
+Iteration: 558
+=============================================
+Epoch 6: Loss= 3.665283, train error= 2.08367, test error= 2.29149
+=============================================
+learning rate decreased to: 0.000377149515625
+Iteration: 567
+Iteration: 576
+Iteration: 585
+Iteration: 594
+Iteration: 603
+Iteration: 612
+Iteration: 621
+Iteration: 630
+Iteration: 639
+Iteration: 648
+=============================================
+Epoch 7: Loss= 2.865826, train error= 1.91775, test error= 2.23016
+=============================================
+learning rate decreased to: 0.000320577088281
+Iteration: 657
+Iteration: 666
+Iteration: 675
+Iteration: 684
+Iteration: 693
+Iteration: 702
+Iteration: 711
+Iteration: 720
+Iteration: 729
+Iteration: 738
+=============================================
+Epoch 8: Loss= 2.371339, train error= 1.72704, test error= 2.15914
+=============================================
+learning rate decreased to: 0.000272490525039
+Iteration: 747
+Iteration: 756
+Iteration: 765
+Iteration: 774
+Iteration: 783
+Iteration: 792
+Iteration: 801
+Iteration: 810
+Iteration: 819
+Iteration: 828
+Iteration: 837
+=============================================
+Epoch 9: Loss= 2.513800, train error= 1.71118, test error= 2.09174
+=============================================
+learning rate decreased to: 0.000231616946283
+Iteration: 846
+Iteration: 855
+Iteration: 864
+Iteration: 873
+Iteration: 882
+Iteration: 891
+Iteration: 900
+Iteration: 909
+Iteration: 918
+Iteration: 927
+=============================================
+Epoch 10: Loss= 2.139969, train error= 1.64143, test error= 2.05558
+=============================================
+learning rate decreased to: 0.000196874404341
+Iteration: 936
+Iteration: 945
+Iteration: 954
+Iteration: 963
+Iteration: 972
+Iteration: 981
+Iteration: 990
+Iteration: 999
+Iteration: 1008
+Iteration: 1017
+=============================================
+Epoch 11: Loss= 1.658159, train error= 1.51272, test error= 2.05351
+=============================================
+learning rate decreased to: 0.00016734324369
+Iteration: 1026
+Iteration: 1035
+Iteration: 1044
+Iteration: 1053
+Iteration: 1062
+Iteration: 1071
+Iteration: 1080
+Iteration: 1089
+Iteration: 1098
+Iteration: 1107
+Iteration: 1116
+=============================================
+Epoch 12: Loss= 1.936852, train error= 1.49777, test error= 1.99304
+=============================================
+learning rate decreased to: 0.000142241757136
+Iteration: 1125
+Iteration: 1134
+Iteration: 1143
+Iteration: 1152
+Iteration: 1161
+Iteration: 1170
+Iteration: 1179
+Iteration: 1188
+Iteration: 1197
+Iteration: 1206
+=============================================
+Epoch 13: Loss= 1.663020, train error= 1.42398, test error= 1.96745
+=============================================
+learning rate decreased to: 0.000120905493566
+Iteration: 1215
+Iteration: 1224
+Iteration: 1233
+Iteration: 1242
+Iteration: 1251
+Iteration: 1260
+Iteration: 1269
+Iteration: 1278
+Iteration: 1287
+Iteration: 1296
+=============================================
+Epoch 14: Loss= 1.705816, train error= 1.46704, test error= 1.99954
+=============================================
+learning rate decreased to: 0.000102769669531
+Iteration: 1305
+Iteration: 1314
+Iteration: 1323
+Iteration: 1332
+Iteration: 1341
+Iteration: 1350
+Iteration: 1359
+Iteration: 1368
+Iteration: 1377
+Iteration: 1386
+Iteration: 1395
+=============================================
+Epoch 15: Loss= 1.643326, train error= 1.44783, test error= 1.93578
+=============================================
+learning rate decreased to: 8.73542191013e-05
+Iteration: 1404
+Iteration: 1413
+Iteration: 1422
+Iteration: 1431
+Iteration: 1440
+Iteration: 1449
+Iteration: 1458
+Iteration: 1467
+Iteration: 1476
+Iteration: 1485
+=============================================
+Epoch 16: Loss= 1.402223, train error= 1.31009, test error= 1.92201
+=============================================
+learning rate decreased to: 7.42510862361e-05
+Iteration: 1494
+Iteration: 1503
+Iteration: 1512
+Iteration: 1521
+Iteration: 1530
+Iteration: 1539
+Iteration: 1548
+Iteration: 1557
+Iteration: 1566
+Iteration: 1575
+=============================================
+Epoch 17: Loss= 1.075619, train error= 1.22840, test error= 1.91184
+=============================================
+learning rate decreased to: 6.31134233007e-05
+Iteration: 1584
+Iteration: 1593
+Iteration: 1602
+Iteration: 1611
+Iteration: 1620
+Iteration: 1629
+Iteration: 1638
+Iteration: 1647
+Iteration: 1656
+Iteration: 1665
+Iteration: 1674
+=============================================
+Epoch 18: Loss= 1.282456, train error= 1.26742, test error= 1.89047
+=============================================
+learning rate decreased to: 5.36464098056e-05
+Iteration: 1683
+Iteration: 1692
+Iteration: 1701
+Iteration: 1710
+Iteration: 1719
+Iteration: 1728
+Iteration: 1737
+Iteration: 1746
+Iteration: 1755
+Iteration: 1764
+=============================================
+Epoch 19: Loss= 1.274709, train error= 1.27677, test error= 1.90373
+=============================================
+learning rate decreased to: 4.55994483347e-05
+Iteration: 1773
+Iteration: 1782
+Iteration: 1791
+Iteration: 1800
+Iteration: 1809
+Iteration: 1818
+Iteration: 1827
+Iteration: 1836
+Iteration: 1845
+Iteration: 1854
+=============================================
+Epoch 20: Loss= 1.350280, train error= 1.28200, test error= 1.88732
+=============================================
+learning rate decreased to: 3.87595310845e-05
+Iteration: 1863
+Iteration: 1872
+Iteration: 1881
+Iteration: 1890
+Iteration: 1899
+Iteration: 1908
+Iteration: 1917
+Iteration: 1926
+Iteration: 1935
+Iteration: 1944
+Iteration: 1953
+=============================================
+Epoch 21: Loss= 1.206925, train error= 1.22472, test error= 1.88442
+=============================================
+learning rate decreased to: 3.29456014218e-05
+Iteration: 1962
+Iteration: 1971
+Iteration: 1980
+Iteration: 1989
+Iteration: 1998
+Iteration: 2007
+Iteration: 2016
+Iteration: 2025
+Iteration: 2034
+Iteration: 2043
+=============================================
+Epoch 22: Loss= 1.152644, train error= 1.21956, test error= 1.87581
+=============================================
+learning rate decreased to: 2.80037612086e-05
+Iteration: 2052
+Iteration: 2061
+Iteration: 2070
+Iteration: 2079
+Iteration: 2088
+Iteration: 2097
+Iteration: 2106
+Iteration: 2115
+Iteration: 2124
+Iteration: 2133
+=============================================
+Epoch 23: Loss= 1.186378, train error= 1.19150, test error= 1.87098
+=============================================
+learning rate decreased to: 2.38031970273e-05
+Iteration: 2142
+Iteration: 2151
+Iteration: 2160
+Iteration: 2169
+Iteration: 2178
+Iteration: 2187
+Iteration: 2196
+Iteration: 2205
+Iteration: 2214
+Iteration: 2223
+Iteration: 2232
+=============================================
+Epoch 24: Loss= 1.356649, train error= 1.28144, test error= 1.87323
+=============================================
+learning rate decreased to: 2.02327174732e-05
+Iteration: 2241
+Iteration: 2250
+Iteration: 2259
+Iteration: 2268
+Iteration: 2277
+Iteration: 2286
+Iteration: 2295
+Iteration: 2304
+Iteration: 2313
+Iteration: 2322
+=============================================
+Epoch 25: Loss= 1.308411, train error= 1.21522, test error= 1.87167
+=============================================
+learning rate decreased to: 1.71978098522e-05
+Iteration: 2331
+Iteration: 2340
+Iteration: 2349
+Iteration: 2358
+Iteration: 2367
+Iteration: 2376
+Iteration: 2385
+Iteration: 2394
+Iteration: 2403
+Iteration: 2412
+=============================================
+Epoch 26: Loss= 1.121364, train error= 1.20125, test error= 1.86564
+=============================================
+learning rate decreased to: 1.46181383744e-05
+Iteration: 2421
+Iteration: 2430
+Iteration: 2439
+Iteration: 2448
+Iteration: 2457
+Iteration: 2466
+Iteration: 2475
+Iteration: 2484
+Iteration: 2493
+Iteration: 2502
+Iteration: 2511
+=============================================
+Epoch 27: Loss= 1.140655, train error= 1.23478, test error= 1.86267
+=============================================
+learning rate decreased to: 1.24254176182e-05
+Iteration: 2520
+Iteration: 2529
+Iteration: 2538
+Iteration: 2547
+Iteration: 2556
+Iteration: 2565
+Iteration: 2574
+Iteration: 2583
+Iteration: 2592
+Iteration: 2601
+=============================================
+Epoch 28: Loss= 1.187217, train error= 1.20149, test error= 1.86041
+=============================================
+learning rate decreased to: 1.05616049755e-05
+Iteration: 2610
+Iteration: 2619
+Iteration: 2628
+Iteration: 2637
+Iteration: 2646
+Iteration: 2655
+Iteration: 2664
+Iteration: 2673
+Iteration: 2682
+Iteration: 2691
+=============================================
+Epoch 29: Loss= 1.129532, train error= 1.17473, test error= 1.85833
+=============================================
+learning rate decreased to: 8.97736422916e-06
+Iteration: 2700
+Iteration: 2709
+Iteration: 2718
+Iteration: 2727
+Iteration: 2736
+Iteration: 2745
+Iteration: 2754
+Iteration: 2763
+Iteration: 2772
+Iteration: 2781
+Iteration: 2790
+=============================================
+Epoch 30: Loss= 1.216852, train error= 1.21991, test error= 1.86175
+=============================================
+learning rate decreased to: 7.63075959479e-06
+Iteration: 2799
+Iteration: 2808
+Iteration: 2817
+Iteration: 2826
+Iteration: 2835
+Iteration: 2844
+Iteration: 2853
+Iteration: 2862
+Iteration: 2871
+Iteration: 2880
+=============================================
+Epoch 31: Loss= 1.150346, train error= 1.20823, test error= 1.85666
+=============================================
+learning rate decreased to: 6.48614565557e-06
+Iteration: 2889
+Iteration: 2898
+Iteration: 2907
+Iteration: 2916
+Iteration: 2925
+Iteration: 2934
+Iteration: 2943
+Iteration: 2952
+Iteration: 2961
+Iteration: 2970
+=============================================
+Epoch 32: Loss= 1.179158, train error= 1.19745, test error= 1.85515
+=============================================
+learning rate decreased to: 5.51322380724e-06
+Iteration: 2979
+Iteration: 2988
+Iteration: 2997
+Iteration: 3006
+Iteration: 3015
+Iteration: 3024
+Iteration: 3033
+Iteration: 3042
+Iteration: 3051
+Iteration: 3060
+Iteration: 3069
+=============================================
+Epoch 33: Loss= 1.205918, train error= 1.18242, test error= 1.85508
+=============================================
+learning rate decreased to: 4.68624023615e-06
+Iteration: 3078
+Iteration: 3087
+Iteration: 3096
+Iteration: 3105
+Iteration: 3114
+Iteration: 3123
+Iteration: 3132
+Iteration: 3141
+Iteration: 3150
+Iteration: 3159
+=============================================
+Epoch 34: Loss= 1.051063, train error= 1.16680, test error= 1.85355
+=============================================
+learning rate decreased to: 3.98330420073e-06
+Iteration: 3168
+Iteration: 3177
+Iteration: 3186
+Iteration: 3195
+Iteration: 3204
+Iteration: 3213
+Iteration: 3222
+Iteration: 3231
+Iteration: 3240
+Iteration: 3249
+=============================================
+Epoch 35: Loss= 0.980110, train error= 1.12237, test error= 1.85462
+=============================================
+learning rate decreased to: 3.38580857062e-06
+Iteration: 3258
+Iteration: 3267
+Iteration: 3276
+Iteration: 3285
+Iteration: 3294
+Iteration: 3303
+Iteration: 3312
+Iteration: 3321
+Iteration: 3330
+Iteration: 3339
+Iteration: 3348
+=============================================
+Epoch 36: Loss= 1.140573, train error= 1.19193, test error= 1.85359
+=============================================
+learning rate decreased to: 2.87793728503e-06
+Iteration: 3357
+Iteration: 3366
+Iteration: 3375
+Iteration: 3384
+Iteration: 3393
+Iteration: 3402
+Iteration: 3411
+Iteration: 3420
+Iteration: 3429
+Iteration: 3438
+=============================================
+Epoch 37: Loss= 1.127703, train error= 1.17497, test error= 1.85238
+=============================================
+learning rate decreased to: 2.44624669227e-06
+Iteration: 3447
+Iteration: 3456
+Iteration: 3465
+Iteration: 3474
+Iteration: 3483
+Iteration: 3492
+Iteration: 3501
+Iteration: 3510
+Iteration: 3519
+Iteration: 3528
+=============================================
+Epoch 38: Loss= 1.262439, train error= 1.24907, test error= 1.85074
+=============================================
+learning rate decreased to: 2.07930968843e-06
+Iteration: 3537
+Iteration: 3546
+Iteration: 3555
+Iteration: 3564
+Iteration: 3573
+Iteration: 3582
+Iteration: 3591
+Iteration: 3600
+Iteration: 3609
+Iteration: 3618
+Iteration: 3627
+=============================================
+Epoch 39: Loss= 1.191631, train error= 1.20025, test error= 1.85261
+=============================================
+learning rate decreased to: 1.76741323517e-06
+Iteration: 3636
+Iteration: 3645
+Iteration: 3654
+Iteration: 3663
+Iteration: 3672
+Iteration: 3681
+Iteration: 3690
+Iteration: 3699
+Iteration: 3708
+Iteration: 3717
+=============================================
+Epoch 40: Loss= 1.300766, train error= 1.20747, test error= 1.85112
+=============================================
+learning rate decreased to: 1.50230124989e-06
+Iteration: 3726
+Iteration: 3735
+Iteration: 3744
+Iteration: 3753
+Iteration: 3762
+Iteration: 3771
+Iteration: 3780
+Iteration: 3789
+Iteration: 3798
+Iteration: 3807
+=============================================
+Epoch 41: Loss= 1.052756, train error= 1.13626, test error= 1.85028
+=============================================
+learning rate decreased to: 1.27695606241e-06
+Iteration: 3816
+Iteration: 3825
+Iteration: 3834
+Iteration: 3843
+Iteration: 3852
+Iteration: 3861
+Iteration: 3870
+Iteration: 3879
+Iteration: 3888
+Iteration: 3897
+Iteration: 3906
+=============================================
+Epoch 42: Loss= 1.591342, train error= 1.31572, test error= 1.85043
+=============================================
+learning rate decreased to: 1.08541265305e-06
+Iteration: 3915
+Iteration: 3924
+Iteration: 3933
+Iteration: 3942
+Iteration: 3951
+Iteration: 3960
+Iteration: 3969
+Iteration: 3978
+Iteration: 3987
+Iteration: 3996
+=============================================
+Epoch 43: Loss= 1.276653, train error= 1.20776, test error= 1.85006
+=============================================
+learning rate decreased to: 9.2260075509e-07
+Iteration: 4005
+Iteration: 4014
+Iteration: 4023
+Iteration: 4032
+Iteration: 4041
+Iteration: 4050
+Iteration: 4059
+Iteration: 4068
+Iteration: 4077
+Iteration: 4086
+=============================================
+Epoch 44: Loss= 1.256885, train error= 1.23398, test error= 1.85078
+=============================================
+learning rate decreased to: 7.84210641826e-07
+Iteration: 4095
+Iteration: 4104
+Iteration: 4113
+Iteration: 4122
+Iteration: 4131
+Iteration: 4140
+Iteration: 4149
+Iteration: 4158
+Iteration: 4167
+Iteration: 4176
+Iteration: 4185
+=============================================
+Epoch 45: Loss= 1.014060, train error= 1.10474, test error= 1.85059
+=============================================
+learning rate decreased to: 6.66579045552e-07
+Iteration: 4194
+Iteration: 4203
+Iteration: 4212
+Iteration: 4221
+Iteration: 4230
+Iteration: 4239
+Iteration: 4248
+Iteration: 4257
+Iteration: 4266
+Iteration: 4275
+=============================================
+Epoch 46: Loss= 1.107983, train error= 1.19899, test error= 1.85025
+=============================================
+learning rate decreased to: 5.66592188719e-07
+Iteration: 4284
+Iteration: 4293
+Iteration: 4302
+Iteration: 4311
+Iteration: 4320
+Iteration: 4329
+Iteration: 4338
+Iteration: 4347
+Iteration: 4356
+Iteration: 4365
+=============================================
+Epoch 47: Loss= 1.143641, train error= 1.14681, test error= 1.84949
+=============================================
+learning rate decreased to: 4.81603360411e-07
+Iteration: 4374
+Iteration: 4383
+Iteration: 4392
+Iteration: 4401
+Iteration: 4410
+Iteration: 4419
+Iteration: 4428
+Iteration: 4437
+Iteration: 4446
+Iteration: 4455
+Iteration: 4464
+=============================================
+Epoch 48: Loss= 1.026603, train error= 1.12999, test error= 1.84974
+=============================================
+learning rate decreased to: 4.0936285635e-07
+Iteration: 4473
+Iteration: 4482
+Iteration: 4491
+Iteration: 4500
+Iteration: 4509
+Iteration: 4518
+Iteration: 4527
+Iteration: 4536
+Iteration: 4545
+Iteration: 4554
+=============================================
+Epoch 49: Loss= 0.981844, train error= 1.12117, test error= 1.84964
+=============================================
+learning rate decreased to: 3.47958427897e-07
+Iteration: 4563
+Iteration: 4572
+Iteration: 4581
+Iteration: 4590
+Iteration: 4599
+Iteration: 4608
+Iteration: 4617
+Iteration: 4626
+Iteration: 4635
+Iteration: 4644
+Done!
+Test error:
+1.850352
+Plotting accuracy figures...
